@@ -1,0 +1,144 @@
+{
+	"status": "ok",
+	"count": 35,
+	"count_total": 35,
+	"pages": 0,
+	"posts": [{
+		"id": 211,
+		"slug": "adele",
+		"title": "Adele",
+		"custom_fields": {
+			"first_name": ["Adele"],
+			"last_name": ["Adkins"],
+			"tagline": ["A British singer with incredible international appeal"],
+			"image": ["429"]
+		},
+		"image": {
+			"id": 429,
+			"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2013\/09\/library_adele.png",
+			"slug": "library_adele",
+			"title": "library_adele",
+			"description": "",
+			"caption": "",
+			"parent": 211,
+			"mime_type": "image\/png",
+			"images": {
+				"full": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2013\/09\/library_adele.png",
+					"width": 150,
+					"height": 200
+				},
+				"thumbnail": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2013\/09\/library_adele.png",
+					"width": 150,
+					"height": 200
+				},
+				"medium": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2013\/09\/library_adele.png",
+					"width": 150,
+					"height": 200
+				},
+				"large": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2013\/09\/library_adele.png",
+					"width": 150,
+					"height": 200
+				}
+			}
+		}
+	}, {
+		"id": 751,
+		"slug": "alannah-weston",
+		"title": "Alannah Weston",
+		"custom_fields": {
+			"first_name": ["Alannah"],
+			"last_name": ["Weston"],
+			"tagline": ["The creative force behind Selfridges"],
+			"image": ["793"]
+		},
+		"image": {
+			"id": 793,
+			"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_alannah.png",
+			"slug": "library_alannah",
+			"title": "library_alannah",
+			"description": "",
+			"caption": "",
+			"parent": 751,
+			"mime_type": "image\/png",
+			"images": {
+				"full": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_alannah.png",
+					"width": 150,
+					"height": 200
+				},
+				"thumbnail": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_alannah.png",
+					"width": 150,
+					"height": 200
+				},
+				"medium": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_alannah.png",
+					"width": 150,
+					"height": 200
+				},
+				"large": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_alannah.png",
+					"width": 150,
+					"height": 200
+				}
+			}
+		}
+	}, {
+		"id": 755,
+		"slug": "yoko-ono",
+		"title": "Yoko Ono",
+		"custom_fields": {
+			"first_name": ["Yoko"],
+			"last_name": ["Ono"],
+			"tagline": ["The tantalising artist"],
+			"image": ["790"]
+		},
+		"image": {
+			"id": 790,
+			"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_yoko.png",
+			"slug": "library_yoko",
+			"title": "library_yoko",
+			"description": "",
+			"caption": "",
+			"parent": 755,
+			"mime_type": "image\/png",
+			"images": {
+				"full": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_yoko.png",
+					"width": 150,
+					"height": 200
+				},
+				"thumbnail": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_yoko.png",
+					"width": 150,
+					"height": 200
+				},
+				"medium": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_yoko.png",
+					"width": 150,
+					"height": 200
+				},
+				"large": {
+					"url": "http:\/\/thegentlewoman.co.uk\/site\/wp-content\/uploads\/2014\/02\/library_yoko.png",
+					"width": 150,
+					"height": 200
+				}
+			}
+		}
+	}],
+	"query": {
+		"ignore_sticky_posts": true,
+		"count": "-1",
+		"post_type": "library",
+		"include": "slug,title,custom_fields",
+		"custom_fields": "first_name,last_name,tagline,image",
+		"meta_key": "published_online",
+		"meta_value": "true",
+		"orderby": "title",
+		"order": "ASC"
+	}
+}

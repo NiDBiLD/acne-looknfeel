@@ -1,0 +1,75 @@
+[
+
+
+{
+
+	"id": 0,
+	"slug": "summer-2014",
+	"title": "SUMMER 2014",
+	
+	"test": "THIS IS THE SUMMER 2014 COLLECTION",
+	
+	
+	"screens" : [{
+		"id": 1,
+		"type": "inspiration",
+		"slug": "inspiration",
+		
+		"video": {
+			"url": "video_inspiration_spring.m4v"
+		},
+		"size": "regular"
+	}, {
+		"id": 2,
+		"type": "show",
+		"slug": "show",
+		
+		"video": {
+			"url": "video_show_hd.mp4"
+		},
+		"size": "wide",
+		
+		"credits" = "MUSIC CREDITS: BACK TO LIFE (CLUB REMIX) / SOUL II SOUL"
+	}, {
+		"id": 3,
+		"type": "gallery",
+		"slug": "lookbook",
+		
+		"gallery" : {
+			"src": [ ".\/uploads\/lb-1.jpg",".\/uploads\/lb-2.jpg",".\/uploads\/lb-3.jpg" ]
+		},
+		"size": "regular"
+	}, {
+		"id": 4,
+		"type": "gallery",
+		"slug": "campaign",
+		
+		"gallery" : {
+			"src": [ ".\/uploads\/camp-1.jpg",".\/uploads\/camp-2.jpg",".\/uploads\/camp-3.jpg",".\/uploads\/camp-4.jpg",".\/uploads\/camp-5.jpg" ]
+		},
+		"size": "large"
+	}
+	]
+	
+	
+},
+
+
+
+
+{
+
+	"id": 100,
+	"slug": "spring-2014",
+	"title": "SPRING 2014",
+	
+	"test": "THIS IS THE SPRINGGGG 2014 COLLECTION"
+	
+}
+
+
+
+
+
+
+]

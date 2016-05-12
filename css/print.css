@@ -1,0 +1,73 @@
+/*
+CELINE PRINT
+SAFARI PRINT WIDTH: 698px
+*/
+
+
+
+
+#navigation,
+#metanavigation,
+#login {
+	display: none;
+}
+
+
+
+/* PROUCT DETAILS */
+
+.margin-left {
+	margin-left: 0 !important;
+}
+.content {
+	margin-top: 160px !important;
+}
+.productgrid li.th,
+.switch-view,
+.close,
+.back,
+.productdetail .toggle_thumbs,
+.productdetail .thumbs,
+.productdetail .productdetail-tools {
+	display: none !important;
+}
+
+.productgrid li.productdetail {
+	width: 90% !important;
+	margin: 0 5% !important;
+}
+
+
+
+
+
+
+/* STORE LOCATOR */
+
+.fullheight {
+	height: 100% !important;
+}
+
+#storelocator {
+	margin-top: 0 !important;
+}
+
+#storelocator #subcontent_storelist {
+	display: none;
+}
+
+
+#storelocator #subcontent_store {
+	width: 100%;
+}
+
+
+#storelocator #subcontent_store .text .right {
+	display: none;
+}
+
+#storelocator #subcontent_store .text .left,
+#storelocator #subcontent_store .text .center {
+	width: 45%;
+}
+

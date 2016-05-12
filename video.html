@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>jQuery ABC - turn videos into ASCII art</title>
+	<meta name="viewport" content="width=device-width">
+	<style type="text/css">
+	a{
+		font-family: monospace;
+		color: black;
+	}
+	a:visited{
+		color: black;
+	}
+	h1{
+		font-size: 24px;
+		font-family: monospace;
+		font-weight: bold;
+	}
+	div{
+		margin-top: 8px;
+		font-size: 8px;
+	}
+	
+	.abc-wrapper {
+		position: relative;
+	}
+	
+	.abc-wrapper #acne_video_ascii {
+		xdisplay: block !important;
+		position: absolute;
+		left: 382px;
+		top: 0;
+	}
+	.abc-wrapper pre {
+		
+	}
+	
+	
+	.abc-wrapper #acne_video_ascii {
+		xdisplay: block !important;
+		position: absolute;
+		left: 382px;
+		top: 0;
+	}
+	
+	/*
+	.video_outer {
+		position: relative;
+	}
+	.video_outer #acne_video_real {
+		display: block !important;
+		position: absolute;
+		left: 382px;
+		top: 0;
+	}
+	*/
+
+
+	</style>
+
+
+</head>
+<body>
+    <h1>Acne Studios ASCII ART</h1>
+
+	<div class="video_outer">
+		
+		<video width="382px" height="538px" preload autoplay loop id="acne_video_ascii">
+			<source src="./video/Rambo.webm" type="video/webm">
+			<source src="./uploads/_video_shopwoman.mp4" type="video/mp4">
+			<source src="./video/Rambo.ogv" type="video/ogg">
+		</video>
+		
+		<!--
+		<video width="382px" height="538px" preload autoplay loop id="acne_video_real">
+			<source src="./video/Rambo.webm" type="video/webm">
+			<source src="./uploads/_video_shopwoman.mp4" type="video/mp4">
+			<source src="./video/Rambo.ogv" type="video/ogg">
+		</video>
+		-->
+		
+	</div>
+	
+	
+	
+
+	<script src="./js/jquery-1.10.2.min.js?v=2"></script>
+	<script type="text/javascript" src="./js/jquery.abc.acne.js"></script>
+	<script type="text/javascript">
+		$(window).load(function(){
+			$('#acne_video_ascii').abc().get(0).play();
+		});
+	</script>
+
+</body>
+</html>

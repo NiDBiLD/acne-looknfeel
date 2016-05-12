@@ -1,0 +1,71 @@
+{
+	"status": "ok",
+	"count": 35,
+	"count_total": 35,
+	"pages": 0,
+	"posts": [{
+	
+		"id": 0,
+		"slug": "black-white-brush-stroke-tank",
+		"title": "BLACK & WHITE BRUSH STROKE JERSEY JACQUARD TANK",
+		"code": "23Y135324.09BW",
+		
+		"text": "ABC",
+		
+		"type": "tank",
+		"color": "bw",
+		"collection": "fall-2015",
+		"category": "rtw",
+		
+		"image" : ".\/uploads\/rtw-1.jpg"
+		
+	}, {
+	
+		"id": 1,
+		"slug": "brush-stroke-pleated-skirt",
+		"title": "BRUSH STROKE PRINT PLEATED SILK JERSEY SKIRT",
+		"code": "23Y135324.09BW",
+		
+		"text": "ABC",
+		
+		"type": "pleated-skirt",
+		"color": "bw",
+		"collection": "fall-2015",
+		"category": "rtw",
+		
+		"image" : ".\/uploads\/rtw-2.jpg"
+		
+	}, {
+	
+		"id": 2,
+		"slug": "triangle-bag-calfskin-black",
+		"title": "TRIANGLE BAG IN SMOOTH CALFSKIN BLACK",
+		"code": "23Y135324.09BW",
+		
+		"text": "ABC",
+		
+		"type": "triangle-bag",
+		"color": "black",
+		"collection": "fall-2015",
+		"category": "bags",
+		
+		"image" : ".\/uploads\/bag-4.jpg"
+		
+	}, {
+	
+		"id": 3,
+		"slug": "triangle-bag-calfskin-black",
+		"title": "TRIANGLE BAG IN SMOOTH CALFSKIN BLACK",
+		"code": "23Y135324.09BW",
+		
+		"text": "ABC",
+		
+		"type": "triangle-bag",
+		"color": "blue",
+		"collection": "fall-2015",
+		"category": "bags",
+		
+		"image" : ".\/uploads\/bag-3a.jpg"
+		
+	}]
+}
